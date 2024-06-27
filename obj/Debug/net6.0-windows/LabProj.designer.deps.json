@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PostSharp/2023.0.4": {
+        "dependencies": {
+          "PostSharp.Redist": "2023.0.4"
+        }
+      },
+      "PostSharp.Patterns.Common/2023.0.4": {
+        "dependencies": {
+          "PostSharp": "2023.0.4",
+          "PostSharp.Patterns.Common.Redist": "2023.0.4"
+        }
+      },
+      "PostSharp.Patterns.Common.Redist/2023.0.4": {
+        "dependencies": {
+          "PostSharp.Redist": "2023.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/PostSharp.Patterns.Common.dll": {
+            "assemblyVersion": "2023.0.4.0",
+            "fileVersion": "2023.0.4.0"
+          }
+        }
+      },
+      "PostSharp.Patterns.Diagnostics/2023.0.4": {
+        "dependencies": {
+          "PostSharp.Patterns.Common": "2023.0.4",
+          "PostSharp.Patterns.Diagnostics.Redist": "2023.0.4"
+        }
+      },
+      "PostSharp.Patterns.Diagnostics.Redist/2023.0.4": {
+        "dependencies": {
+          "PostSharp.Patterns.Common.Redist": "2023.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/PostSharp.Patterns.Diagnostics.dll": {
+            "assemblyVersion": "2023.0.4.0",
+            "fileVersion": "2023.0.4.0"
+          }
+        }
+      },
+      "PostSharp.Redist/2023.0.4": {
+        "runtime": {
+          "lib/net6.0/PostSharp.dll": {
+            "assemblyVersion": "2023.0.4.0",
+            "fileVersion": "2023.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostSharp/2023.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LO06t9Arln2X9gPY0YjbcLip3UOp+y/ECon7sMa02OCZ70z+CV9weKnU3mfv+n3zwEPj6Y5x0OrN7DhqMq+VGg==",
+      "path": "postsharp/2023.0.4",
+      "hashPath": "postsharp.2023.0.4.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Common/2023.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DNU1mmUjX8eil3vSbAlApoZSoWcHMwpVrJe0clGnmSLiApgUvws6EU6bi4nbFLqEdKVJh/Dk3Qxh++zqSsXWA==",
+      "path": "postsharp.patterns.common/2023.0.4",
+      "hashPath": "postsharp.patterns.common.2023.0.4.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Common.Redist/2023.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ak5d7VFa9EBkiEBK2O0duLsos9lMu4vF/Dme4Bjo+q/zjOaGxoc6Ge1CuMkfE/2aLlu9Mlzze0AbE+XErn5taA==",
+      "path": "postsharp.patterns.common.redist/2023.0.4",
+      "hashPath": "postsharp.patterns.common.redist.2023.0.4.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics/2023.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cwW7Qoe0rLBmtmT8SQVhg1nogBS5841EEg2XzXoSChrSRAS4i4TJMHrpr03IyPH/gRgjIvLmjwIJwz/e4bGZyA==",
+      "path": "postsharp.patterns.diagnostics/2023.0.4",
+      "hashPath": "postsharp.patterns.diagnostics.2023.0.4.nupkg.sha512"
+    },
+    "PostSharp.Patterns.Diagnostics.Redist/2023.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i9m49+jclq5WlOZvwL4AYkYy5lrB6DLQHiiTMvKcdick02XUSBbak5iiVHt0SCBQBQjNADrZOKaks9DpCNg4RQ==",
+      "path": "postsharp.patterns.diagnostics.redist/2023.0.4",
+      "hashPath": "postsharp.patterns.diagnostics.redist.2023.0.4.nupkg.sha512"
+    },
+    "PostSharp.Redist/2023.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nzDjHEWjngLfqnz+jLD+VMYtvuJ/eMGpNvyZ13s8Yeo+zyWNKTcTu0ffz4sjEvlsfkivELE/HPj3yPsiU8KpbQ==",
+      "path": "postsharp.redist/2023.0.4",
+      "hashPath": "postsharp.redist.2023.0.4.nupkg.sha512"
+    }
+  }
+}

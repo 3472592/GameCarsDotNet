@@ -1,0 +1,20 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "7.0.2"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "7.0.2"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\Liberty Fox User\\.nuget\\packages\\",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+      "C:\\ProgramData\\PostSharp\\NuGetFallback"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKWnh+CIa5sRL3dk/+0pxCu5JBUo/MmhO8z5FmkXE0kQh03TbQDe8KEj8OImExg+np/VusBjewaMAw0A9xdiHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\16507\\Desktop\\Vova Code\\Training\\C#\\Lab#1 Final Product\\LabProj6.0\\LabProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\16507\\.nuget\\packages\\postsharp\\2023.0.4\\postsharp.2023.0.4.nupkg.sha512",
+    "C:\\Users\\16507\\.nuget\\packages\\postsharp.patterns.common\\2023.0.4\\postsharp.patterns.common.2023.0.4.nupkg.sha512",
+    "C:\\Users\\16507\\.nuget\\packages\\postsharp.patterns.common.redist\\2023.0.4\\postsharp.patterns.common.redist.2023.0.4.nupkg.sha512",
+    "C:\\Users\\16507\\.nuget\\packages\\postsharp.patterns.diagnostics\\2023.0.4\\postsharp.patterns.diagnostics.2023.0.4.nupkg.sha512",
+    "C:\\Users\\16507\\.nuget\\packages\\postsharp.patterns.diagnostics.redist\\2023.0.4\\postsharp.patterns.diagnostics.redist.2023.0.4.nupkg.sha512",
+    "C:\\Users\\16507\\.nuget\\packages\\postsharp.redist\\2023.0.4\\postsharp.redist.2023.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
